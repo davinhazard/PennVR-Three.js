@@ -1,1 +1,1 @@
-# PennVR-Three.js
+# WebVR Procedural Terrain and Fireworks
